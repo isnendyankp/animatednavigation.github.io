@@ -5,4 +5,3 @@ In this project, I learn how to use CSS animation to create animation navigation
 4. CSS Animation: https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 5. Menu Icon: https://www.w3schools.com/howto/howto_css_menu_icon.asp
 6. Deploy Project: https://isnendyankp.github.io/animatednavigation.github.io/
-7. Github: https://github.com/isnendyankp/animatednavigation.github.io
